@@ -6,7 +6,7 @@
 ## Technologies
 
 * Java
-* TestNG
+* Spring Boot
 * JUnit
 
 
